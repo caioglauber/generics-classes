@@ -16,7 +16,7 @@ public class Main {
         for(int i = 0;i< values;i++){
             Integer n = sc.nextInt();
             
-            ps.addValeu(n);
+            ps.addValue(n);
             
         }
         ps.print();
