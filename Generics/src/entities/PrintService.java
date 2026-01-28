@@ -8,8 +8,8 @@ public class PrintService<T> {
     
     private List<T> list = new ArrayList<>();
     
-    public void addValeu(T valeu){
-        list.add(valeu);
+    public void addValue(T value){
+        list.add(value);
     }
     
     public T first(){
